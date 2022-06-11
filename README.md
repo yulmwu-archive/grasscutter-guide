@@ -8,6 +8,8 @@
 > 
 > [명령어](#명령어)
 > 
+> [기타](#기타)
+> 
 > **모드([모델 변경](https://github.com/portra400nc/ModelChanger), [카메라](https://github.com/portra400nc/CameraTools) 툴 등) 사용는 `melonloader`를 사용해야 하지만, `2.7`을 지원하지 않습니다. `2.6`으로 다운그레이드하여 모드를 사용할 수 있습니다.**
 
 <br>
@@ -151,3 +153,15 @@ account create [이름] [uid]
 ![image](https://cdn.discordapp.com/attachments/923192998177701898/983594496761675796/2.png)
 
 ---
+
+# 기타
+
+[**Grasscutter 공식 디스코드**](https://discord.gg/grasscutter)
+
+## **서버 종료 후 인터넷이 안됩니다.**
+
+> ![image](image/notwork.png)
+> 
+> 프록시 설정으로 이동 후, `프록시 서버 사용`을 비활성화 해주세요.
+> 
+> ![image](image/notwork2.png)
