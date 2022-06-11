@@ -43,7 +43,7 @@
 
 ## 1
 
-다운받은 **GrassClipper.zip** 압축을 푼다음, `GrassClipper.exe` (확장자를 표시하지 않는 경우 `GrassClipper` 파일)을 실행합니다.
+다운받은 **GrassClipper.zip** 압축을 푼 다음, `GrassClipper.exe` (확장자를 표시하지 않는 경우 `GrassClipper` 파일)을 실행합니다.
 
 처음 실행하게 되면 다음과 같은 화면이 나옵니다.
 
