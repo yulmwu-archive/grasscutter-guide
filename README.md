@@ -1,4 +1,4 @@
-# 원신 사설 서버 (커스텀, 테스트 서버) 설치 가이드 (2.7 기준)
+# 원신 사설 서버 (커스텀, 테스트 서버) 설치 가이드 (2.7, 2.8 기준)
 
 > [준비물](#준비물)
 >
@@ -10,7 +10,7 @@
 > 
 > [기타](#기타)
 > 
-> **모드([모델 변경](https://github.com/portra400nc/ModelChanger), [카메라](https://github.com/portra400nc/CameraTools) 툴 등) 사용는 `melonloader`를 사용해야 하지만, `2.7`을 지원하지 않습니다. `2.6`으로 다운그레이드하여 모드를 사용할 수 있습니다.**
+> **모드([모델 변경](https://github.com/portra400nc/ModelChanger), [카메라](https://github.com/portra400nc/CameraTools) 툴 등) 사용는 `melonloader`를 사용해야 하지만, `2.7`, `2.8`을 지원하지 않습니다. `2.6`으로 다운그레이드하여 모드를 사용할 수 있습니다.** (또는 직접 수정하여)
 
 <br>
 
@@ -101,6 +101,8 @@ Please manually run this command as Administrator:
 [구글 드라이브](https://drive.google.com/file/d/1EZ13D8U_zFBqm50tSxXlrdF0kJeuwWLX/view?usp=sharing)
 
 압축 해제 후, `gc2.7` 폴더를 `GrassClipper.exe`가 위치한 폴더에 복사해주세요.
+
+> ^ 2.8의 경우엔, `gc2.7/Resources` 폴더에 https://github.com/Dimbreath/GenshinData 해당 폴더 및 파일을 복사해주세요.
 
 <br>
 
