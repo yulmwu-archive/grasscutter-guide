@@ -1,15 +1,14 @@
 # 원신 사설 서버 (커스텀, 테스트 서버) 설치 가이드 (2.7, 2.8 기준)
 
-> [준비물](#준비물)
->
-> [설치](#설치)
->
-> [실행](#실행)
-> 
-> [명령어](#명령어)
-> 
-> [기타](#기타)
-> 
+* [준비물](#준비물)
+* [설치](#설치)
+  * [1](#1)
+  * [2](#2)
+* [실행](#실행)
+* [명령어](#명령어)
+* [기타](#기타)
+
+
 > **모드([모델 변경](https://github.com/portra400nc/ModelChanger), [카메라](https://github.com/portra400nc/CameraTools) 툴 등) 사용는 `melonloader`를 사용해야 하지만, `2.7`, `2.8`을 지원하지 않습니다. `2.6`으로 다운그레이드하여 모드를 사용할 수 있습니다.** (또는 직접 수정하여)
 
 <br>
@@ -104,7 +103,9 @@ Please manually run this command as Administrator:
 
 > ^ 2.8의 경우엔, `gc2.7/Resources` 폴더에 https://github.com/Dimbreath/GenshinData 해당 폴더 및 파일을 복사해주세요.
 > 
-> * 2022/07/16 기준, 정상 작동을 하지 않는 것으로 확인되었습니다.
+> 또는 grasscutter 데이터 & 리소스 업데이트
+> 
+> * 참고: [#1](https://github.com/tsukiroku/genshin-custom-server/issues/2#issuecomment-1186179818)
 
 <br>
 
@@ -150,13 +151,6 @@ account create [이름] [uid]
 [아이템 / 캐릭터 id 등 모음](Handbook.txt)
 
 <br>
-
----
-
-![image](https://cdn.discordapp.com/attachments/923192998177701898/983594496195440650/1.png)
-![image](https://cdn.discordapp.com/attachments/923192998177701898/983594496761675796/2.png)
-
----
 
 # 기타
 
