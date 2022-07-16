@@ -103,6 +103,8 @@ Please manually run this command as Administrator:
 압축 해제 후, `gc2.7` 폴더를 `GrassClipper.exe`가 위치한 폴더에 복사해주세요.
 
 > ^ 2.8의 경우엔, `gc2.7/Resources` 폴더에 https://github.com/Dimbreath/GenshinData 해당 폴더 및 파일을 복사해주세요.
+> 
+> * 2022/07/16 기준, 정상 작동을 하지 않는 것으로 확인되었습니다.
 
 <br>
 
