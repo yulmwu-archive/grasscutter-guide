@@ -1,4 +1,4 @@
-# Grasscutter 사설 서버 (커스텀, 테스트 서버) 설치 가이드 (2.7, 2.8 기준)
+# Grasscutter 사설 서버 (커스텀, 테스트 서버) 설치 가이드 (2.8 기준)
 
 * [준비물](#준비물)
 * [설치](#설치)
@@ -144,6 +144,8 @@ account create [이름] [uid]
 > 자세한 내용은 [위키](https://github.com/Grasscutters/Grasscutter/wiki/Commands)를 참고해주세요.
 
 [아이템 / 캐릭터 id 등 모음](Handbook.txt)
+
+해당 파일은 grasscutter를 설치할 시, 기본적으로 내장되어 있습니다. (한국어 포함)
 
 <br>
 
