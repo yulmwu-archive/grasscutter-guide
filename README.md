@@ -106,7 +106,7 @@ Please manually run this command as Administrator:
 > 
 > 또는 grasscutter 데이터 & 리소스 업데이트
 > 
-> * 참고: [#1](https://github.com/tsukiroku/genshin-custom-server/issues/2#issuecomment-1186179818)
+> * 참고: [#1](https://github.com/ky0422/genshin-custom-server/issues/2#issuecomment-1186179818)
 
 <br>
 
